@@ -51,4 +51,5 @@ node default {
   content => "Think before you type\n",
  }
  include users
+ include skeleton
 }
