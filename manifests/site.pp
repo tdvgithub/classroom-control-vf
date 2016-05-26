@@ -40,4 +40,3 @@ ini_setting { 'random ordering':
 
 node default {
 }
-}
