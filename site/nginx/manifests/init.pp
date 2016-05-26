@@ -1,6 +1,7 @@
-class nginx {
+class nginx (
 $root = undef,
-) {
+)
+{
 case $::osfamily {
 'redhat','debian' : {
 $package = 'nginx'
